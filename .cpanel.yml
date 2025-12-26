@@ -1,5 +1,5 @@
 ---
 deployment:
     tasks:
-        - export DEPLOYPATH=/home/literasi7/repositories/literasiyun
+        - export DEPLOYPATH=/home/literasi7/public_html/
         - /bin/cp index.html $DEPLOYPATH
